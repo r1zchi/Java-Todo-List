@@ -17,7 +17,7 @@ A simple and clean To-Do List desktop application built with **Java** and **Swin
 ## 📷 Videos
 
 ![gif1](readme-gif/javatodolist1.gif)
-![gif2](https://raw.githubusercontent.com/r1zchi/Java-Todo-list/<branchmaing/readme-gif/javatodolist1.gif)
+![gif2](https://raw.githubusercontent.com/r1zchi/Java-Todo-list/main/readme-gif/javatodolist1.gif)
 
 ---
 
